@@ -10,6 +10,8 @@ ou
 
 
 ## Compilar
+Crie um CMakeLists.txt:
+
     cmake_minimum_required(VERSION 3.16)
     project(hello_qt LANGUAGES CXX)
 
